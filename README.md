@@ -41,14 +41,12 @@ To run the project locally:
 3- Open ```index.html``` in your browser.
 
 
-## 📋 Usage- 
+## 📋 Usage
 - Click + to increase the count.
 - Click − to decrease the count (minimum is 0).
 - Click Reset to reset the count to zero.
 
 
-## 📄 License
-- This project is open-source and available under the MIT License.
 
 
 ## 🙌 Acknowledgments
