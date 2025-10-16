@@ -10,11 +10,6 @@ A simple and responsive counter application built with HTML, CSS, and JavaScript
 - Dark-themed UI with smooth button hover effects
 - Clean separation of HTML, CSS, and JavaScript files
 
-## 🖼️ Preview
-
-![Counter App Screenshot](https://via.placeholder.com/600x400?text=Counter+App+Preview)
-> Replace this placeholder with an actual screenshot of your app once hosted or captured locally.
-
 ## 🛠️ Technologies Used
 
 - **HTML5** – Semantic structure
@@ -40,9 +35,11 @@ To run the project locally:
    git clone https://github.com/your-username/counter-app.git
    ```
 2- Navigate to the project folder:
-```
-cd counter-app
-```
+   ```
+   cd counter-app
+   ```
+3- Open ```index.html``` in your browser.
+
 
 ## 📋 Usage- 
 - Click + to increase the count.
